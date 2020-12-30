@@ -1,5 +1,5 @@
 {
-  "name": "glowing-octo-waffle",
+  "name": "@jaxxreal/glowing-octo-waffle",
   "version": "1.0.0",
   "description": "Test package",
   "main": "index.js",
