@@ -18,7 +18,7 @@ jobs:
           node-version: 12
       - run: npm ci
       - run: npm test
-      - name Bump package.json version
+      - name: Bump package.json version
         uses: TriPSs/conventional-changelog-action@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN_ACTION }}
