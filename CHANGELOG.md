@@ -1,4 +1,13 @@
-## [1.0.1](https://github.com/jaxxreal/glowing-octo-waffle/compare/v0.0.1-main.0...1.0.1) (2020-12-30)
+## [1.0.2](https://github.com/jaxxreal/glowing-octo-waffle/compare/1.0.1...1.0.2) (2020-12-30)
+
+
+### Bug Fixes
+
+* add package scope to action ([05aaf4c](https://github.com/jaxxreal/glowing-octo-waffle/commit/05aaf4cf6740535d813ae73a347264dbcb9d474c))
+
+
+
+## [1.0.1](https://github.com/jaxxreal/glowing-octo-waffle/compare/v1.0.2-main.1...1.0.1) (2020-12-30)
 
 
 ### Bug Fixes
