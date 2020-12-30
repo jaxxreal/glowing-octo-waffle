@@ -1,0 +1,22 @@
+{
+  "name": "glowing-octo-waffle",
+  "version": "1.0.0",
+  "description": "Test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxxreal/glowing-octo-waffle.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Eugeny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxxreal/glowing-octo-waffle/issues"
+  },
+  "homepage": "https://github.com/jaxxreal/glowing-octo-waffle#readme"
+}
