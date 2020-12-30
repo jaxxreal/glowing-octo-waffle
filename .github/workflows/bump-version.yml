@@ -19,7 +19,7 @@ jobs:
       - run: npm ci
       - run: npm test
       - name: Bump package.json version
-        uses: TriPSs/conventional-changelog-action@master
+        uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN_ACTION }}
           git-message: 'chore(release): {version}'
